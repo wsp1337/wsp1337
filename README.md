@@ -106,6 +106,7 @@ Je développe **tous types de bots**, de A à Z :
 
 ## 🚀 Projets en cours
 
+- **Bot de ticket** avec système complet
 - **Bot de modération tout-en-un** avec système de permissions par rôle
 - **Selfbot Discord** : rotation automatique de tags, status cycliques
 - **Backup/restore de serveurs Discord** : rôles, salons, catégories, permissions
@@ -247,6 +248,7 @@ I build **all types of bots**, from scratch to production:
 
 ## 🚀 Current Projects
 
+- **Ticket bot** with system complet
 - **All-in-one moderation bot** with full permission editor
 - **Advanced Discord Selfbot** with rotating tags, status cycles, profile tools
 - **Full backup/restore bot** for Discord servers (channels, roles, categories, settings)
