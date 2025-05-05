@@ -25,8 +25,8 @@
   <a href="https://discord.com/users/1315917464290332702">
     <img src="https://img.shields.io/badge/Discord-wsp.dev-7289DA?logo=discord&style=flat-square" />
   </a>
-  <a href="mailto:wsp.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wsp.contact@gmail.com-red?style=flat-square&logo=gmail" />
+  <a href="mailto:wspdev.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wspdev.contact@gmail.com-red?style=flat-square&logo=gmail" />
   </a>
 </p>
 
@@ -127,7 +127,7 @@ Je développe **tous types de bots**, de A à Z :
 ## 📫 Me contacter
 
 - **Discord** : `ogp9`  
-- **Email** : `wsp.contact@gmail.com`  
+- **Email** : `wspdev.contact@gmail.com`  
 - *(Disponible pour missions, freelance ou collaborations)*
 
 ---
@@ -165,8 +165,8 @@ Je développe **tous types de bots**, de A à Z :
   <a href="https://discord.com/users/1315917464290332702">
     <img src="https://img.shields.io/badge/Discord-ogp9-7289DA?logo=discord&style=flat-square" />
   </a>
-  <a href="mailto:wsp.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wsp.contact@gmail.com-red?style=flat-square&logo=gmail" />
+  <a href="mailto:wspdev.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wspdev.contact@gmail.com-red?style=flat-square&logo=gmail" />
   </a>
 </p>
 
@@ -269,7 +269,7 @@ I build **all types of bots**, from scratch to production:
 ## 📫 Contact
 
 - **Discord**: `ogp9`  
-- **Email**: `wsp.contact@gmail.com`  
+- **Email**: `wspdev.contact@gmail.com`  
 - *(Open for freelance, commissions or collaboration)*
 
 ---
